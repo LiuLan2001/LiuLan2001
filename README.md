@@ -5,8 +5,6 @@
 Here are some ideas to get you started:
 -->
 
-## Hi there 👋
-
 - 🎓 I’m currently a Ph.D. student at Northeast Normal University.
 - 🔭 My research focuses on scientific visualization.
 - 🌱 I’m currently exploring topics related to implicit neural representations.
