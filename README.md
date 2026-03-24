@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 I’m currently a Ph.D. student at Northeast Normal University.
-- 🔭 My research focuses on scientific visualization.
-- 🌱 I’m currently exploring topics related to implicit neural representations.
+- 🔭 My research focuses on scientific visualization and implicit neural representations.
 - 📚 I’m also interested in literary theory.
+- 💭 I see myself as a liberal and a postmodernist.
 - 🎮 In my free time, I enjoy playing Nintendo games.
